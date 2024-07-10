@@ -10,10 +10,9 @@ App Development: Developing sleek and functional mobile applications that solve 
 Continuous Learning: Always eager to explore new programming languages, tools, and methodologies.
 🌟 Skills:
 HTML, CSS, JavaScript
-React, NextJs, 
+React Js, NextJs, 
 Node.js, Express.js
-Python, Java, Swift
-Git, GitHub, CI/CD
+Python, Java,C,C++
 MongoDB, Firebase
 React Native
 🌱 Currently Exploring:
