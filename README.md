@@ -17,9 +17,7 @@ Git, GitHub, CI/CD
 MongoDB, Firebase
 React Native
 🌱 Currently Exploring:
-Progressive Web Apps (PWA)
 Machine Learning and AI
-Cloud Computing and DevOps
 <!---
 AyushPaul323/AyushPaul323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
